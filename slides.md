@@ -14,8 +14,7 @@ paginate: true
 
 ---
 
-<!-- _backgroundImage: url('20970500881320017.jpg') -->
-<!-- _backgroundSize: cover -->
+![bg cover](20970500881320017.jpg)
 
 # Welcome
 
